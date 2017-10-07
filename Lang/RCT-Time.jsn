@@ -1,0 +1,11 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"RCT-TimeSpeaker",
+    "swTime":"Speak Switch"
+  },
+  "de":{
+    "appName":"RCT-TimeSprecher",
+    "swCap":"Sprechen Schalter"
+  }
+}
